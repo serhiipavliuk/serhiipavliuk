@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Serhii github stats](https://github-readme-stats.vercel.app/api?username=serhiipavliuk&show_icons=true&theme=algolia&count_private=true)](https://github.com/serhiipavliuk)
+
 <!--
 **serhiipavliuk/serhiipavliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
